@@ -1,0 +1,19 @@
+Hi Marc,
+
+similar to the first submission, we want to provide you with some feedback so that you know where you stand, how to improve, and what to repeat for the last submission. Once again, we use a color scheme with "red" meaning that you are in danger of failing if you continue with this kind of work, "yellow" that you will likely pass if you continue like this but that you should improve in order to get a good grade; "green" that you are on a good path towards a good or even very good grade.
+
+Theoretical part: green
+Good:
+I really like the overall idea of your submission and that you try something different! You incorporate many sources and develop a good structure for your policy brief. I really like the discussion of potential challenges and advantages as well as your outlook.
+
+Ideas for Improvement:
+The only thing I would note is that your use of language tends to be a bit “flowery”. You could thus potentially think about using more neutral language.
+
+Practical part: green
+Good:
+This was a very impressive submission! Your notebook is exceptionally well-documented and -commented (nice idea to visualize your speed-ups) and you explain your approach very well. The experiments that you conduct are extensive and thoroughly analyzed.
+
+If you have any questions, feel free to reach out.
+
+Best regards,
+Jakob
