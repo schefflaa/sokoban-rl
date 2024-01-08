@@ -1,4 +1,4 @@
-# Analysis of RL-Algorithms on the Sokoban Problem
+# Analysis of RL-Algorithms on the [Sokoban Problem](https://github.com/mpSchrader/gym-sokoban)
 
 [▶ View the analysis here.](https://github.com/schefflaa/Sokoban-RL/blob/main/main.ipynb)
 
