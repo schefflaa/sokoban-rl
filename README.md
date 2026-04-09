@@ -1,4 +1,4 @@
-# 🤖🧠 Analysis of RL-Algorithms on the [Sokoban Problem](https://github.com/mpSchrader/gym-sokoban)
+# Analysis of RL-Algorithms on the [Sokoban Problem](https://github.com/mpSchrader/gym-sokoban)
 
 In this project, I have analyzed Reinforcement Learning solutions to solve a simplified version of the [Sokoban environment](https://github.com/mpSchrader/gym-sokoban). The notebook provides a comprehensive guide from installation to result discussion.
 
@@ -7,11 +7,11 @@ In this project, I have analyzed Reinforcement Learning solutions to solve a sim
 - Demonstrating the use of [Monte Carlo Off-Policy Control](http://incompleteideas.net/book/ebook/node56.html) and [Deep Q-Network](https://arxiv.org/abs/1312.5602) in order to solve the [Sokoban environment](https://github.com/mpSchrader/gym-sokoban)
 - Visualizing the training progress, evaluating the agent's performance, analyzing the learning dynamics and interpreting the results
 
-[▶ View the analysis here.](https://github.com/schefflaa/Sokoban-RL/blob/main/main.ipynb)
+[View the analysis here.](https://github.com/schefflaa/Sokoban-RL/blob/main/main.ipynb)
 </br>
 </br>
 
-❗ Note that to properly display images and use intra-document links downloading the repo is necessary.
+Note that to properly display images and use intra-document links downloading the repo is necessary.
 
 
 | Run 1 | Run 2 | Run 3 | Run 4 | Run 5 | Run 6 |
